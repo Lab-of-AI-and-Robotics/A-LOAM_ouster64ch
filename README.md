@@ -1,6 +1,7 @@
 # A-LOAM_Ouster64ch
 
 ## A-LOAM with Ouster 64ch
+**For ROS1 Noetic**
 This repo contains A-LOAM with Ouster-64ch LiDAR.
 
 [manual](https://github.com/Lab-of-AI-and-Robotics/Lair_Code_Implementation_Manual/blob/main/manual/LOAM.md)
